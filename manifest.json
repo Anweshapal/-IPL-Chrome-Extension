@@ -1,0 +1,17 @@
+{
+    "name": "IPL",
+    "version": "1.0.0",
+    "description": "Best extension in the world",
+    "manifest_version": 3,
+    "author": "Anwesha Pal",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "My Chrome Extension"
+    },
+    "icons":{
+        "16":"ipll.png",
+        "32":"ipll.png",
+        "48":"ipll.png"
+    }
+
+}
